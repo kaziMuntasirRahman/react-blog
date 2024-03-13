@@ -1,0 +1,62 @@
+[
+  {
+    "id": 987654,
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/hBmCvL5/author-1.png",
+    "title": "Exploring the Latest Trends in Web Development",
+    "cover_img": "https://i.ibb.co/wNFdL24/blog-banner-1.jpg",
+    "publish_date": "2024-03-13",
+    "reading_time": 10,
+    "hashtags": ["technology", "coding", "webdev"]
+  },
+  {
+    "id": 876543,
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/Krnqntz/author-1.jpg",
+    "title": "Unlocking Creativity: A Designer's Journey",
+    "cover_img": "https://i.ibb.co/hyCKw0R/blog-banner-2.jpg",
+    "publish_date": "2024-03-14",
+    "reading_time": 8,
+    "hashtags": ["design", "inspiration", "creativity"]
+  },
+  {
+    "id": 765432,
+    "author": "Alex Johnson",
+    "author_img": "https://i.ibb.co/Hx65F1m/author-2.jpg",
+    "title": "Mastering Software Development: Tips and Tricks",
+    "cover_img": "https://i.ibb.co/jhjNvGW/blog-banner-3.jpg",
+    "publish_date": "2024-03-15",
+    "reading_time": 12,
+    "hashtags": ["programming", "software", "development"]
+  },
+  {
+    "id": 654321,
+    "author": "Emily Davis",
+    "author_img": "https://i.ibb.co/FYGdjmv/author-3.jpg",
+    "title": "Embracing the Spirit of Adventure in Travel",
+    "cover_img": "https://i.ibb.co/2t39LWs/blog-banner-4.jpg",
+    "publish_date": "2024-03-16",
+    "reading_time": 15,
+    "hashtags": ["travel", "adventure", "explore"]
+  },
+  {
+    "id": 543210,
+    "author": "Chris Brown",
+    "author_img": "https://i.ibb.co/dBBdPv3/author-4.jpg",
+    "title": "Balancing Fitness and Wellness for a Healthier Life",
+    "cover_img": "https://i.ibb.co/9TC9Gjj/blog-banner-5.jpg",
+    "publish_date": "2024-03-17",
+    "reading_time": 7,
+    "hashtags": ["fitness", "health", "wellness"]
+  },
+  {
+    "id": 432109,
+    "author": "Sophia Miller",
+    "author_img": "https://i.ibb.co/PGkfdyW/author-5.jpg",
+    "title": "Exploring Fashion Trends: Where Style Meets Comfort",
+    "cover_img": "https://i.ibb.co/j64hNvn/blog-banner-6.jpg",
+    "publish_date": "2024-03-18",
+    "reading_time": 9,
+    "hashtags": ["fashion", "style", "trends"]
+  }
+]
